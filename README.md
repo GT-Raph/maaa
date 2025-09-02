@@ -39,6 +39,7 @@ This project is a web application for detecting diseases in maize leaves using d
 
 ## Notes
 - Large model files (e.g., `.h5` files) are not tracked by git due to GitHub's file size limits. Download or place them manually in the `model/` directory.
+- Contact Me for the `model/` directory
 - For production deployment, use a WSGI server like Waitress or Gunicorn.
 
 ## License
