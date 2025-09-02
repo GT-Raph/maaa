@@ -1,2 +1,3 @@
 env/
 maize-disease-detection/model/binary.h5
+maize-disease-detection/model/maize.h5
